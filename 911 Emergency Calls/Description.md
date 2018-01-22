@@ -4,7 +4,7 @@ Introduction : Analyzing emergency calls dataset and discovering hidden trends a
 
 Dataset Used : The dataset for analysis has been obtained from Kaggle. The dataset contains Emergency 911 calls in Montgomery County located in the Commonwealth of Pennsylvania. The attributes chosen include: type of emergency, time stamp, township where the emergency has occurred.
 
-For this capstone project we will be analyzing and visualizing some 911 call data from Kaggle. The data contains the following fields:
+For this project I analyzed and visualized some 911 call data from Kaggle using python - pandas, numpy, matplotlib and seaborn. The data contains the following fields:
 
 lat : String variable, Latitude
 lng: String variable, Longitude
