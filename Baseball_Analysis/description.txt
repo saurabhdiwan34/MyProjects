@@ -1,0 +1,2 @@
+Baseball Analysis
+Used pandas and numpy to analyze historical baseball data 
