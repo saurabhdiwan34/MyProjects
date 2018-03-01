@@ -1,1 +1,3 @@
 Stock Market analysis
+Visualization for stock data of 6 major tech companies
+Also created a prediction model which can predict the closing price based on history
